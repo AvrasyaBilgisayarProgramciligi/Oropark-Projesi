@@ -1,0 +1,12 @@
+C:\Users\tgrl6\source\repos\Oropark-Projesi\Oropark-Projesi\bin\Debug\Oropark-Projesi.exe.config
+C:\Users\tgrl6\source\repos\Oropark-Projesi\Oropark-Projesi\bin\Debug\Oropark-Projesi.exe
+C:\Users\tgrl6\source\repos\Oropark-Projesi\Oropark-Projesi\bin\Debug\Oropark-Projesi.pdb
+C:\Users\tgrl6\source\repos\Oropark-Projesi\Oropark-Projesi\obj\Debug\Oropark-Projesi.csprojAssemblyReference.cache
+C:\Users\tgrl6\source\repos\Oropark-Projesi\Oropark-Projesi\obj\Debug\Oropark_Projesi.Form1.resources
+C:\Users\tgrl6\source\repos\Oropark-Projesi\Oropark-Projesi\obj\Debug\Oropark_Projesi.Properties.Resources.resources
+C:\Users\tgrl6\source\repos\Oropark-Projesi\Oropark-Projesi\obj\Debug\Oropark-Projesi.csproj.GenerateResource.cache
+C:\Users\tgrl6\source\repos\Oropark-Projesi\Oropark-Projesi\obj\Debug\Oropark-Projesi.csproj.CoreCompileInputs.cache
+C:\Users\tgrl6\source\repos\Oropark-Projesi\Oropark-Projesi\obj\Debug\Oropark-Projesi.exe
+C:\Users\tgrl6\source\repos\Oropark-Projesi\Oropark-Projesi\obj\Debug\Oropark-Projesi.pdb
+C:\Users\tgrl6\source\repos\Oropark-Projesi\Oropark-Projesi\obj\Debug\Oropark_Projesi.Form2.resources
+C:\Users\tgrl6\source\repos\Oropark-Projesi\Oropark-Projesi\obj\Debug\Oropark_Projesi.Form3.resources
